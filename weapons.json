@@ -1,0 +1,152 @@
+[
+    {
+      "name": "支离轮光",
+      "base": 608,
+      "atk": 0.24,
+      "em": 0,
+      "cr": 0.0,
+      "cd": 0.662,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.40
+    },
+    {
+      "name": "香韵奏者",
+      "base": 608,
+      "atk": 0.24,
+      "em": 0,
+      "cr": 0.0,
+      "cd": 0.662,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "息灾",
+      "base": 741,
+      "atk": 0.485,
+      "em": 0,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.12,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "决斗之枪",
+      "base": 454,
+      "atk": 0.48,
+      "em": 0,
+      "cr": 0.368,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "峡湾长歌",
+      "base": 510,
+      "atk": 0.0,
+      "em": 240,
+      "cr": 0.276,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "匣里灭辰",
+      "base": 454,
+      "atk": 0.0,
+      "em": 220.5,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.36,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "赤沙之杖（0层）",
+      "base": 542,
+      "atk": 0.0,
+      "em": 0.0,
+      "cr": 0.441,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "赤沙之杖（1层）",
+      "base": 542,
+      "atk": 0.0,
+      "em": 0.0,
+      "cr": 0.441,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "赤沙之杖（2层）",
+      "base": 542,
+      "atk": 0.0,
+      "em": 0.0,
+      "cr": 0.441,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "赤沙之杖（3层）",
+      "base": 542,
+      "atk": 0.0,
+      "em": 0.0,
+      "cr": 0.441,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "护摩之杖（满血）",
+      "base": 608,
+      "atk": 0.0,
+      "em": 0.0,
+      "cr": 0.0,
+      "cd": 0.662,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "护摩之杖（半血）",
+      "base": 608,
+      "atk": 0.0,
+      "em": 0.0,
+      "cr": 0.0,
+      "cd": 0.662,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "风信之锋（全满）",
+      "base": 510,
+      "atk": 0.653,
+      "em": 96,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "和璞鸢（5%加攻）",
+      "base": 674,
+      "atk": 0.05,
+      "em": 0,
+      "cr": 0.221,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "和璞鸢（满层）",
+      "base": 674,
+      "atk": 0.224,
+      "em": 0,
+      "cr": 0.221,
+      "cd": 0.0,
+      "enhanced": 0.12,
+      "lunar_enhanced": 0.0
+    }
+]

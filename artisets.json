@@ -1,0 +1,56 @@
+[
+    {
+      "name": "如雷的盛怒",
+      "atk": 0.0,
+      "em": 0,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.15,
+      "lunar_enhanced": 0.2
+    },
+    {
+      "name": "饰金之梦",
+      "atk": 0.14,
+      "em": 180,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "2攻+2攻",
+      "atk": 0.36,
+      "em": 0,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "2攻+2精",
+      "atk": 0.18,
+      "em": 80,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "2精+2精",
+      "atk": 0.0,
+      "em": 160,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    },
+    {
+      "name": "千岩牢固",
+      "atk": 0.2,
+      "em": 0,
+      "cr": 0.0,
+      "cd": 0.0,
+      "enhanced": 0.0,
+      "lunar_enhanced": 0.0
+    }
+]
